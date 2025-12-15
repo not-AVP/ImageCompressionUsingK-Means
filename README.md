@@ -4,8 +4,8 @@
 
 ## Description
 
-Using numpy to perform K-means algorithm and using it to compress images.
-
+> Using numpy to perform K-means algorithm and using it to compress images.
+This type of compression selects n (specified by user) no. of colours in the pixels and then assigns each pixel to the closest colour out of n.
 ## Usage 
 ```
 bash
