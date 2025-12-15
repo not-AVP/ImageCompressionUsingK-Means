@@ -1,5 +1,7 @@
 # Image Compression Using K-Means
 
+![doggo] (doggy.png)
+
 ## Description
 
 Using numpy to perform K-means algorithm and using it to compress images.
