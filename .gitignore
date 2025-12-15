@@ -8,3 +8,5 @@ venv/
 __pychache__/
 pyvenv.cfg
 bird_small.png
+notty_image.jpg
+notty_img_compressed.jpg
