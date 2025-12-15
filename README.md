@@ -1,6 +1,6 @@
 # Image Compression Using K-Means
 
-<img src = "doggy.png" width = 300 height = 310>
+<img src = "doggy.png" width = 300 height = 310> <img src = "doggy_compressed.png" width = 300 height = 310>
 
 ## Description
 
