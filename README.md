@@ -1,6 +1,6 @@
 # Image Compression Using K-Means
 
-! [doggo] (doggy.png)
+<img src = "doggy.png">
 
 ## Description
 
