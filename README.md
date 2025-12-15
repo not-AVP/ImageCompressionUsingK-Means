@@ -1,6 +1,6 @@
 # Image Compression Using K-Means
 
-![doggo] (/doggy.png)
+! [doggo] (doggy.png)
 
 ## Description
 
